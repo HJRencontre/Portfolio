@@ -113,10 +113,17 @@ nav ul li:hover {
 .page-content .presentation-image img {
   max-width: 100%;
   height: auto;
+  margin: auto;
 }
 
 .page-content .projects-section {
   margin-top: 6%;
+}
+
+.page-content .projects-section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 .page-content .projects-section h1 {
